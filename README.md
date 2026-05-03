@@ -1,3 +1,4 @@
+![KIRA-Shell Banner](https://capsule-render.vercel.app/api?type=waving&color=00ffea&height=200&section=header&text=KIRA-Shell&fontSize=90&theme=dark)
 # KIRA-Shell
 
 ### Cybersecurity Student | Level 4
