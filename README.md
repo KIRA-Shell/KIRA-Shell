@@ -1,6 +1,8 @@
-![KIRA-Shell Banner](https://capsule-render.vercel.app/api?type=waving&color=00ffea&height=200&section=header&text=KIRA-Shell&fontSize=90&theme=dark)
-# KIRA-Shell
-
+!<p align="center">
+  <a href="https://github.com/KIRA-Shell">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=00ffea&height=250&section=header&text=KIRA-Shell&fontSize=70&animation=fadeIn&theme=dark&fontAlignY=40" />
+  </a>
+</p>
 ### Cybersecurity Student | Level 4
 I am a technical researcher driven by an intense passion for security exploration and ethical hacking. My approach is centered on deconstructing complex systems to understand their inner workings and uncovering new vulnerabilities through persistent research and AI-assisted problem-solving.
 
