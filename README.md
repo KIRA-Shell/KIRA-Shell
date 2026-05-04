@@ -1,27 +1,29 @@
-![KIRA-Shell Banner](https://capsule-render.vercel.app/api?type=waving&color=00ffea&height=200&section=header&text=KIRA-Shell&fontSize=90&theme=dark)
-# KIRA-Shell
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=250&section=header&text=KIRA-Shell&desc=Offensive%20Security%20&%20Network%20Infrastructure&descAlignY=70&fontSize=70&animation=fadeIn&theme=dark" />
+</p>
 
-### Cybersecurity Student | Level 4
-I am a technical researcher driven by an intense passion for security exploration and ethical hacking. My approach is centered on deconstructing complex systems to understand their inner workings and uncovering new vulnerabilities through persistent research and AI-assisted problem-solving.
-
-- **Focus Areas:** Deep-diving into Offensive Security, Network Protocols, and unconventional hacking techniques.
-- **Current Research:** Developing a SOC Dashboard for Drone Infrastructure.
-- ### Technical Arsenal
-
-**Programming & Development**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Cybersecurity Tools**
-![Nmap](https://img.shields.io/badge/Nmap-%234EAA25.svg?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%232496ED.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux)
-
-I thrive on the challenge of the unknown. Whether it is mastering the fundamentals of networking or exploring the latest exploitation vectors, I am committed to continuous learning and pushing the boundaries of my technical expertise.
+<h2 align="center">🏆 Cybersecurity Arsenal & Trophies 🏆</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KIRA-Shell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
+</p>
 
 ---
 
-### Professional Metrics
-![KIRA-Shell Stats](https://github-readme-stats.vercel.app/api?username=KIRA-Shell&show_icons=true&theme=dark&hide_border=true&count_private=true)
+### 🕵️ About Me
+Welcome to my digital command center! I am a Level 4 Cybersecurity student dedicated to mastering system integrity, offensive security, and network exploration. 
+
+*   🔭 **Currently Working On:** Developing an advanced SOC Dashboard for Drone Infrastructure.
+*   🧠 **Core Focus:** Penetration Testing, Advanced Subnetting, Network Protocols, and OSINT.
+*   🛠️ **Tech Stack:** Python, C++, Flutter, Bash.
+*   ⚔️ **Security Toolkit:** Nmap, Metasploit, Burp Suite, Ollama (Local LLM Research).
+*   ⚡ **Fun Fact:** Consistent in the gym, persistent in the terminal. Building muscle mass by day, breaking into complex systems by night.
+
+---
+
+### 📊 Professional Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KIRA-Shell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRA-Shell&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+</p>
